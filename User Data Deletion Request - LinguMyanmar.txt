@@ -1,0 +1,60 @@
+User Data Deletion Request - LinguMyanmar
+At LinguMyanmar, your privacy is a top priority. In compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR), we provide you with the ability to request the deletion of your personal data. By submitting this request, you acknowledge that the deletion of your data will be permanent and irreversible.
+
+If you would like to request the deletion of your personal information or exercise any of your data rights, please follow the steps below.
+
+1. Request Submission
+To request the deletion of your personal data, please contact us via email 
+
+Email: [ntdogdev@gmail.com]
+
+2. Information Required
+To process your request efficiently, please provide the following details:
+
+Full Name:
+Email Address associated with your account:
+Username (if applicable):
+Any additional information that may assist us in verifying your identity (e.g., recent login details or activities).
+3. Data Deletion Process
+Once we receive your request, we will:
+
+Verify your identity to ensure that the request is legitimate.
+Permanently delete all personal data associated with your account, unless retention is required for legal, regulatory, or legitimate business purposes. This includes:
+Personal identification data (e.g., name, email address)
+Account-related data (e.g., preferences, settings)
+User-generated content (e.g., translations, saved content)
+If some data must be retained for legal or compliance reasons, we will inform you and explain the retention period.
+
+4. Timeframe for Processing
+We will process your request within 30 calendar days from the date we receive it, as required by GDPR. If we need more time (e.g., for complex requests), we will inform you within the initial 30-day period.
+
+5. Impact of Data Deletion
+By requesting data deletion, you understand that:
+
+Your LinguMyanmar account will be permanently deleted, and you will lose access to any associated content, preferences, and settings.
+User-generated content (e.g., translations, saved words, history) will be irreversibly deleted.
+Please ensure that you back up any important data before submitting your request.
+
+6. Retention of Certain Data
+While we will delete most of your data, some information may be retained for legal, regulatory, or business reasons, such as:
+
+Billing and transaction information (retained for tax, accounting, or fraud prevention purposes).
+Compliance data (e.g., for anti-money laundering or legal obligations).
+This data will be retained only for as long as necessary and will be securely stored.
+
+7. Your Rights Under GDPR
+If you are located in the EU/EEA, you have the following rights under the General Data Protection Regulation (GDPR):
+
+Right to Access: You can request a copy of the personal data we hold about you.
+Right to Rectification: You can request the correction of inaccurate or incomplete data.
+Right to Erasure (Right to be Forgotten): You have the right to request the deletion of your personal data, as described above.
+Right to Restrict Processing: You can ask us to limit the processing of your data in certain situations.
+Right to Data Portability: You can request your data in a structured, commonly used format to transfer it to another service.
+Right to Object: You can object to the processing of your data, particularly in cases of direct marketing or profiling.
+Right to Withdraw Consent: If your data is being processed based on your consent, you have the right to withdraw that consent at any time.
+For more information or to exercise any of these rights, please contact us at [ntdogdev@gmail.com].
+
+8. Questions or Concerns
+If you have any questions or concerns regarding this data deletion process, or if you believe we are not processing your data in accordance with GDPR or other relevant privacy laws, please contact our Data Protection Officer at [ntdogdev@gmail.com].
+
+If you are not satisfied with how we handle your request, you have the right to lodge a complaint with a supervisory authority in the EU. For more information, please visit the European Data Protection Board (EDPB).
